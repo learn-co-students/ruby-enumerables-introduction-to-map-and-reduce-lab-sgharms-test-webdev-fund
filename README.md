@@ -17,7 +17,7 @@ It's also a chance to know that if we ever go to a language that doesn't have
 awesome Enumerables built-in, we could write a replacement function easily.
 
 For the next few lessons, we're only going to talk about Enumerables in the
-context of `Array`s. While `Hash`es also feature methods that follow the
+context of `Array`s. While sf`Hash`es also feature methods that follow the
 "Character of Enumerable Methods," for ease of learning, we're going to focus
 only on `Array`s.
 
